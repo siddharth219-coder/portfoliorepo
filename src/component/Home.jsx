@@ -1,7 +1,7 @@
 
 import Profile from "../assets/SiddharthKedarMohantyresume.pdf"
 
-import img from "../assets/IMG_20250224_161049.jpg"
+import img from "../assets/IMG_20260807_195042.png"
 import { CiDesktopMouse1 } from "react-icons/ci";
 import { FaFacebookSquare, FaGithub, FaInstagram, FaLinkedin } from "react-icons/fa";
 
